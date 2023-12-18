@@ -1,0 +1,6 @@
+op0 = (10, 20)
+op1 = (8, 20)
+print("Dupla 1:", op0)
+print("Dupla 2:", op1)
+r = (op0[0] + op1[0]), (op0[1] + op1[1])
+print("Tupla resultante:", r)
